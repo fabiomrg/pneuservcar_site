@@ -51,7 +51,7 @@
       posts: [
         {
           blurb: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam earum ipsa quidem, ipsam adipisci, dolorum ducimus repellat vel sed cum maiores voluptatum enim illum saepe dolor fugit amet laboriosam.',
-          category: 'Pneu-1',
+          category: 'Pneu-one',
           date: '',
           src: 'https://static.pneustore.com.br/medias/sys_master/images/images/h3e/h32/8859688173598/pneu-goodyear-aro-15-efficientgrip-performance-195-65r15-91h-original-onix-active-1.jpg',
           title: 'Lorem ipsum dolor',
@@ -65,7 +65,7 @@
         },
         {
           blurb: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam earum ipsa quidem, ipsam adipisci, dolorum ducimus repellat vel sed cum maiores voluptatum enim illum saepe dolor fugit amet laboriosam.',
-          category: 'Pneu-1',
+          category: 'Pneu-one',
           date: '',
           src: 'https://static.pneustore.com.br/medias/sys_master/images/images/h3e/h32/8859688173598/pneu-goodyear-aro-15-efficientgrip-performance-195-65r15-91h-original-onix-active-1.jpg',
           title: 'Lorem ipsum dolor',
@@ -100,7 +100,7 @@
         },
         {
           blurb: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam earum ipsa quidem, ipsam adipisci, dolorum ducimus repellat vel sed cum maiores voluptatum enim illum saepe dolor fugit amet laboriosam.',
-          category: 'Pneu-1',
+          category: 'Pneu-one',
           date: '',
           src: 'https://static.pneustore.com.br/medias/sys_master/images/images/h3e/h32/8859688173598/pneu-goodyear-aro-15-efficientgrip-performance-195-65r15-91h-original-onix-active-1.jpg',
           title: 'Lorem ipsum dolor',
@@ -115,7 +115,7 @@
       ],
       tabs: [
         'All',
-        'Pneu-1',
+        'Pneu-one',
         'Pneu-2',
         'Pneu-4',
         'Pneu-3',

@@ -231,7 +231,7 @@
       post: {
         title: 'Lorem ipsum',
         date: 'September 18, 2018',
-        category: 'Pneu-1',
+        category: 'Pneu-one',
         comments: [
           {
             avatar: 'https://randomuser.me/api/portraits/men/51.jpg',

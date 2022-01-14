@@ -45,7 +45,7 @@
             Nulla, porro? Quos architecto vero itaque temporibus in illo nam perferendis ex nemo distinctio?
           </p>
 
-          <div class="sigPneu-1">
+          <div class="sigPneu-one">
             Equipe Pneu Serv Car
           </div>
         </v-responsive>
@@ -61,7 +61,7 @@
 </script>
 
 <style lang="sass">
-  .sigPneu-1
+  .sigPneu-one
     font-family: 'Cedarville Cursive', cursive !important
     font-size: 2rem
     font-style: italic
