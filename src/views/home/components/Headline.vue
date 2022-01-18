@@ -14,13 +14,7 @@
   
 >
      <div class="d-flex align-center">
-          <v-img
-            :src="require('@/assets/logo.png')"
-            contain
-            class="shrink mr-2"
-            max-height="440"
-            max-width="440"
-          />
+         
 
           <v-toolbar-title class="white--text headline font-italic">
           </v-toolbar-title>
